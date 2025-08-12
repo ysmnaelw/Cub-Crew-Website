@@ -168,9 +168,6 @@ main {
     line-height: 1.4;
   }
   header {
-    height: 50px;
-    header h2 {
-      font-size: 18px;
-    }
+    position: static;
   }
 }
