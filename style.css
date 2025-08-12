@@ -159,11 +159,9 @@ main {
   background: none;
 }
 @media (max-width: 600px) {
-  body {
-    padding 10px;
-  }
-  img {max-width: 100%;
-  height: auto;
+  h1 {
+    font-size: 24px;
+    line-height: 1.2;
   }
 
 }
