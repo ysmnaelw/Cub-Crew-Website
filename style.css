@@ -159,9 +159,12 @@ main {
   background: none;
 }
 @media (max-width: 600px) {
-  h1 {
+  h2 {
     font-size: 24px;
     line-height: 1.2;
-    color: red
+  }
+  p {
+    font-size: 16px;
+    line-height: 1.4;
   }
 }
