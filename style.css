@@ -159,9 +159,11 @@ main {
   background: none;
 }
 @media (max-width: 600px) {
+  .title {
+    font-size: 24px;
+  }
   h1 {
     font-size: 24px;
     line-height: 1.2;
   }
-
 }
