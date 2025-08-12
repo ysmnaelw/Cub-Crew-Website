@@ -158,3 +158,12 @@ main {
   box-shadow: none;
   background: none;
 }
+@media (max-width: 600px) {
+  body {
+    padding 10px;
+  }
+  img {max-width: 100%;
+  height: auto;
+  }
+
+}
